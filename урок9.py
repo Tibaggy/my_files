@@ -1,3 +1,4 @@
+# hello
 def light(x):
     d = ['green', 'yellow', 'red']
     if x == d[0]:
